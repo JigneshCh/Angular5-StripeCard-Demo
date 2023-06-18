@@ -18,7 +18,7 @@ This is a sample Angular code with following functionality
  - Include HTML view / design for payment card List, Add, Update, Delete
  - Css for no content loader using linear-gradient property ~ https://tinyurl.com/2y4l2p6f
  - Stipe Card Listing ~ https://tinyurl.com/26y3om3f
- - Stripe Card Add Modal with stripe js ~ https://tinyurl.com/26fbfzva
+ - Stripe Card Add Modal with stripe js ~ https://tinyurl.com/27zytmvu
 
 
 
